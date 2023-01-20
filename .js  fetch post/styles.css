@@ -1,2 +1,9 @@
-
+.post{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+#display{
+    width: 70vw;
+}
 
